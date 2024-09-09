@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=101084&reversal=false&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=633ed5&reversal=false&section=header"/> 
 
 
 # Resenha do artigo Thoughtworks Technology Radar
@@ -11,4 +11,4 @@ Este repositório contém uma resenha do artigo "Thoughtworks Technology Radar",
 * João Paulo Carneiro Aramuni 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=101084&reversal=false&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=633ed5&reversal=false&section=footer"/>
