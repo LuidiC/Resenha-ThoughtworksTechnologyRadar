@@ -7,10 +7,10 @@
    O *Technology Radar* da Thoughtworks, é um guia sobre tendências emergentes em tecnologia, dividido em quatro categorias principais: técnicas, plataformas, ferramentas e linguagens & frameworks. Este relatório classifica as tecnologias, indicando o grau de adoção recomendada (adote, experimente, avalie, evite). Entre os tópicos abordados, destacam-se as implicações da IA generativa no desenvolvimento de software, o uso de arquiteturas de modelo de linguagem grande (LLMs) e o impacto da conformidade contínua em segurança e regulamentação, servindo como um recurso para desenvolvedores em busca de orientação sobre novas tecnologias.
 
 **Análise crítica**:
-   - **Relevância**: O radar oferece uma análise atualizada e relevante sobre o estado da tecnologia, especialmente sobre IA e LLMs, o que é de alta importância no contexto atual de transformação digital. Ele impacta diversas áreas da TI, desde desenvolvimento até segurança.
-   - **Clareza**: O relatório é claro em suas recomendações e explicações, usando uma abordagem acessível para praticamente qualquer público, desde técnicos até tomadores de decisão, cada tecnologia é explicada de forma lógica, com suas recomendações claras e bem fundamentadas.
-   - **Metodologia**: A abordagem de categorizar tecnologias por anéis de adoção (adote, experimente, avalie, evite) extremamente útil, ajudando empresas a tomarem decisões se baseando em risco e benefício.
-   - **Referências e fundamentação**: O estudo utiliza uma base teórica sólida, referenciando tendências e tecnologias cada vez mais emergentes no mercado.
+Relevância: O radar oferece uma análise atualizada e relevante sobre o estado da tecnologia, especialmente sobre IA e LLMs, o que é de alta importância no contexto atual de transformação digital. Ele impacta diversas áreas da TI, desde desenvolvimento até segurança.
+Clareza: O relatório é claro em suas recomendações e explicações, usando uma abordagem acessível para praticamente qualquer público, desde técnicos até tomadores de decisão, cada tecnologia é explicada de forma lógica, com suas recomendações claras e bem fundamentadas.
+Metodologia: A abordagem de categorizar tecnologias por anéis de adoção (adote, experimente, avalie, evite) extremamente útil, ajudando empresas a tomarem decisões se baseando em risco e benefício.
+Referências e fundamentação: O estudo utiliza uma base teórica sólida, referenciando tendências e tecnologias cada vez mais emergentes no mercado.
 
 **Discussão**:
    O conteúdo se alinha a discussões sobre o papel crescente da IA no desenvolvimento de software, particularmente no uso de assistentes baseados em LLMs. O *Technology Radar* adota uma abordagem prática, recomendando tecnologias que já estão sendo testadas e usadas por equipes da Thoughtworks. Sua ênfase em segurança e compliance contínuo também reflete uma preocupação crescente com regulamentações de privacidade e cibersegurança.
